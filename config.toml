@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://klautcomputing.github.io/champkidz.de"
+base_url = "https://klautcomputing.github.io/champkidz.de/"
 
 # The theme to use
 theme = "even"

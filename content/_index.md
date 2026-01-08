@@ -16,7 +16,7 @@ Unsere Weiterbildungsprogramme sind speziell darauf ausgerichtet, Kinder in ihre
 
 <div class="services-grid">
 
-<a href="/weiterbildungen/resilienz" class="service-card">
+<a href="weiterbildungen/resilienz" class="service-card">
 
 ### Resilienz
 *stark werden*
@@ -25,7 +25,7 @@ Programm zur Stärkung der persönlichen Widerstandsfähigkeit und Entwicklung i
 
 </a>
 
-<a href="/weiterbildungen/nachhaltigkeit" class="service-card">
+<a href="weiterbildungen/nachhaltigkeit" class="service-card">
 
 ### Nachhaltigkeit
 *die Umwelt achten*
@@ -34,7 +34,7 @@ Förderung eines nachhaltigen Umweltbewusstseins und sozialer Verantwortung durc
 
 </a>
 
-<a href="/weiterbildungen/biografiearbeit-rap" class="service-card">
+<a href="weiterbildungen/biografiearbeit-rap" class="service-card">
 
 ### Biografiearbeit & Rap-Textanalyse
 *sich ausdrücken und Geschichten teilen*
@@ -43,7 +43,7 @@ Kreative Methoden zur Selbstreflexion und Kommunikation durch Biografiearbeit un
 
 </a>
 
-<a href="/weiterbildungen/kunst-kreativitaet" class="service-card">
+<a href="weiterbildungen/kunst-kreativitaet" class="service-card">
 
 ### Kunst, Kreativität & Erleben
 *eigene Ideen umsetzen und Spaß haben*
@@ -52,7 +52,7 @@ Praktische Workshops zur Förderung künstlerischer und kreativer Fähigkeiten m
 
 </a>
 
-<a href="/weiterbildungen/vorlesepatin-sprachtraining" class="service-card">
+<a href="weiterbildungen/vorlesepatin-sprachtraining" class="service-card">
 
 ### Vorlesepatin & Sprachtraining Deutsch
 *Sprachentwicklung fördern*
@@ -61,7 +61,7 @@ Gezielte Förderung der Sprachentwicklung durch Vorlesen und spezielles Sprachtr
 
 </a>
 
-<a href="/weiterbildungen/bildung-trifft-entwicklung" class="service-card">
+<a href="weiterbildungen/bildung-trifft-entwicklung" class="service-card">
 
 ### Bildung trifft Entwicklung
 *Lernen mit Kopf, Herz und Hand*
@@ -75,7 +75,7 @@ Ganzheitliches Lernkonzept, das kognitives, emotionales und praktisches Lernen m
 </div>
 
 <div class="contact-section">
-<a href="/about">
+<a href="about">
 
 **Xenia Hügel**  
 *Zertifizierter Bildungsträger, Kindercoach, Aktivistin, Erzieherin, Preisträgerin*
