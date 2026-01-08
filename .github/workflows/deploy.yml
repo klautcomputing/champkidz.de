@@ -24,12 +24,22 @@ jobs:
 
       - name: Download Even theme
         run: |
+          echo "Current directory: $(pwd)"
+          echo "Listing themes directory:"
+          ls -la themes/ || echo "Themes directory doesn't exist"
+          echo "Removing any existing even theme..."
+          rm -rf themes/even
+          echo "Creating themes directory..."
           mkdir -p themes
+          echo "Cloning Even theme..."
           cd themes
-          if [ ! -d "even" ]; then
-            git clone --depth 1 https://github.com/getzola/even.git even
-          fi
+          git clone --depth 1 https://github.com/getzola/even.git even
+          echo "Verifying theme download:"
+          ls -la even/ || echo "Even directory not found"
+          ls -la even/theme.toml || echo "theme.toml not found"
           cd ..
+          echo "Final verification:"
+          ls -la themes/even/theme.toml || (echo "ERROR: Theme file still not found!" && exit 1)
 
       - name: Install Zola
         run: |
