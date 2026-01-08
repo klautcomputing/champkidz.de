@@ -21,22 +21,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          submodules: recursive
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Initialize submodules
+      - name: Download Even theme
         run: |
-          git submodule update --init --recursive || true
-
-      - name: Download Even theme if missing
-        run: |
-          if [ ! -f "themes/even/theme.toml" ]; then
-            mkdir -p themes
-            cd themes
-            git clone --depth 1 https://github.com/getzola/even.git even || true
-            cd ..
+          mkdir -p themes
+          cd themes
+          if [ ! -d "even" ]; then
+            git clone --depth 1 https://github.com/getzola/even.git even
           fi
+          cd ..
 
       - name: Install Zola
         run: |
