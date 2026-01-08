@@ -3,10 +3,21 @@
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 
+html {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
+  overflow-x: hidden;
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   background-color: #f5f5f0 !important; /* Eggshell/off-white */
   border-top: 3px solid #cf3b73 !important; /* Purple top border */
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
+  overflow-x: hidden;
 }
 
 [data-theme="dark"] body {
@@ -30,10 +41,11 @@ code, pre, .highlight {
 #header {
   justify-content: space-between !important;
   padding: 10px 20px !important;
-  margin: 0 !important;
-  max-width: none !important;
-  width: auto !important;
+  margin: 0 auto !important;
+  max-width: 100% !important;
+  width: 100% !important;
   align-items: center !important;
+  box-sizing: border-box;
 }
 
 .mobile-navbar {
@@ -219,6 +231,11 @@ main {
 .content {
   margin-top: 0 !important;
   padding-top: 0 !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  box-sizing: border-box;
 }
 
 .post,
@@ -283,18 +300,23 @@ article.post {
 .container {
   max-width: 100% !important;
   width: 100% !important;
-  padding-left: 1em !important;
-  padding-right: 1em !important;
+  padding-left: 2em !important;
+  padding-right: 2em !important;
+  margin: 0 auto !important;
+  box-sizing: border-box;
+  display: block;
 }
 
 /* Intro section */
 .intro-section {
-  max-width: 100%;
+  max-width: 900px;
   margin: 0 auto 2em;
   text-align: center;
-  padding: 0 1em;
+  padding: 0 2em;
   padding-top: 0 !important;
   margin-top: 0 !important;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .intro-section h2 {
@@ -325,8 +347,14 @@ article.post {
 
 /* Services section */
 .services-section {
-  margin: 2em 0;
-  padding: 0 1em;
+  margin: 2em auto;
+  padding: 0;
+  width: 100%;
+  max-width: 1200px;
+  box-sizing: border-box;
+  display: block;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
 /* Services grid */
@@ -334,9 +362,13 @@ article.post {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 2em;
-  max-width: 100%;
+  max-width: 1200px;
   margin: 0 auto;
-  padding: 0 1em;
+  padding: 0;
+  width: 100%;
+  box-sizing: border-box;
+  align-items: stretch;
+  justify-items: stretch;
 }
 
 /* Service cards */
@@ -348,10 +380,13 @@ article.post {
   padding: 2em;
   transition: all 0.3s ease;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-  display: block;
+  display: flex;
+  flex-direction: column;
   text-decoration: none !important;
   color: inherit;
   cursor: pointer;
+  height: 100%;
+  box-sizing: border-box;
 }
 
 .service-card,
@@ -375,6 +410,7 @@ article.post {
   color: #cf3b73;
   text-decoration: none;
   pointer-events: none;
+  flex-shrink: 0;
 }
 
 .service-card h3,
@@ -391,10 +427,12 @@ article.post {
   margin-bottom: 1.2em;
   font-size: 0.95em;
   line-height: 1.5;
+  flex-shrink: 0;
 }
 
 .service-card p {
   margin: 0;
+  margin-top: auto;
   line-height: 1.7;
   color: #000000;
   font-size: 0.98em;
@@ -520,29 +558,77 @@ article.post {
 
 /* Responsive adjustments */
 @media (max-width: 1024px) {
+  .container {
+    padding-left: 1.5em !important;
+    padding-right: 1.5em !important;
+  }
+  
   .services-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 1.5em;
+    max-width: 100%;
+  }
+  
+  .intro-section {
+    padding: 0 1.5em;
   }
 }
 
 @media (max-width: 768px) {
+  .container {
+    padding-left: 0.75em !important;
+    padding-right: 0.75em !important;
+  }
+  
+  main {
+    width: 100%;
+  }
+  
+  .content {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0;
+  }
+  
+  .services-section {
+    width: 100%;
+    padding: 0;
+    margin: 2em 0;
+  }
+  
   .services-grid {
     grid-template-columns: 1fr;
     gap: 1.5em;
     padding: 0;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
   }
   
   .service-card {
     padding: 1.5em;
+    width: 100%;
+    box-sizing: border-box;
   }
   
-  .intro-section,
+  .intro-section {
+    padding: 0 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+  
   .funding-section,
   .contact-section {
-    margin-left: 1em;
-    margin-right: 1em;
+    margin-left: auto;
+    margin-right: auto;
     padding: 1.5em;
+    width: calc(100% - 1.5em);
+    max-width: 600px;
+    box-sizing: border-box;
   }
 }
 
