@@ -1,0 +1,33 @@
+# The URL the site will be built for
+base_url = "https://klautcomputing.github.io/champkidz.de"
+
+# The theme to use
+theme = "even"
+
+# Site title and description
+title = "ChampKidz"
+description = "Weiterbildungen für Kinder - stark & kreativ"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+# Whether to build a search index to be used later by the `get_search_results` helper
+build_search_index = false
+
+# Whether to generate feeds
+generate_feeds = false
+
+[markdown]
+# Whether to do syntax highlighting
+highlight_code = false
+
+# The default language
+default_language = "de"
+
+taxonomies = []
+
+[extra]
+author = "Xenia Hügel"
+even_title = "ChampKidz"
+
+even_menu = []
