@@ -4,6 +4,8 @@ title = "Home"
 
 <div class="intro-section">
 
+# CHAMPKIDZ
+
 ## Weiterbildungen für Kinder in ihrer Einrichtung
 
 **(Vorschule - 10. Klasse / Kleingruppen)**
