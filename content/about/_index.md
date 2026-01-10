@@ -14,40 +14,22 @@ Durch die Verbindung von kultureller Bildung, kreativen Methoden und nachhaltige
 
 ### Internationale Anerkennungen
 
-#### African Humanitarian Award Nominee
-Nominiert für den African Humanitarian Award für herausragendes humanitäres Engagement und wertvolle Bildungsarbeit. Diese internationale Auszeichnung würdigt Personen, die sich durch besonderes humanitäres Engagement und transformative Bildungsarbeit auszeichnen.
+#### African Humanitarian Award 2025
+Gewinnerin des African Humanitarian Award für herausragendes humanitäres Engagement und wertvolle Bildungsarbeit. Diese internationale Auszeichnung würdigt Personen, die sich durch besonderes humanitäres Engagement und transformative Bildungsarbeit auszeichnen.
+
+#### Honorary Citizen of Jattaba 2020 
+In Übereinstimmung mit der Kultur, den Traditionen und Werten erkennen die Ältesten und Autoritäten von Jattaba, Xenia Hügel als Ehrenbürgerin an. 
 
 ### Nationale Auszeichnungen
 
-#### Bürgerpreis 2015
+#### Bürgerpreis Frankfurt 2015 mit "Kultur für ALLE Kids"
 Auszeichnung für besonderes bürgerschaftliches Engagement und langjährige ehrenamtliche Arbeit im Bildungsbereich. Der Bürgerpreis ist eine wichtige Anerkennung für Personen, die sich durch herausragendes ehrenamtliches Engagement in ihrer Gemeinde auszeichnen und einen nachhaltigen Beitrag zur gesellschaftlichen Entwicklung leisten.
 
-#### Kulturelle Bildungsauszeichnungen
-**"Kultur für alle Kids 2015"**  
-Anerkennung für innovative Projekte zur kulturellen Bildung und Förderung künstlerischer Kreativität bei Kindern und Jugendlichen. Diese Auszeichnung würdigt kreative Bildungsinitiativen, die kulturelle Teilhabe und künstlerische Ausdrucksformen für Kinder ermöglichen und so einen wichtigen Beitrag zur kulturellen Bildung leisten.
+### Go Volunteer Siegel für ausgezeichnetes Engagement 2023 
+Das Siegel für ausgezeichnetes Engegement würdigt soziale Projekte, die vorbildliche Arbeit mit freiwilligen Helfer:innen leisten. 
 
-#### Weitere Auszeichnungen
-Mehrfache Auszeichnungen und Anerkennungen für die wertvolle Arbeit im Bildungsbereich. 
-
-Weitere Informationen zu den Auszeichnungen und Anerkennungen für ehrenamtliches Engagement im kulturellen Bildungsbereich finden Sie auf der [Kulturpass Auszeichnungsseite](https://www.kulturpass.net/ehrungen/auszeichnungen/). Die Kulturpass-Initiative würdigt Personen und Projekte, die sich in besonderem Maße für kulturelle Bildung und künstlerische Vermittlung einsetzen.
-
----
-
-## Projekte und Initiativen
-
-### JUMPP – Jugend und mehr
-Engagement in Projekten zur Förderung und Unterstützung junger Menschen in ihrer persönlichen und sozialen Entwicklung. JUMPP (Jugend und mehr) ist ein Projekt, das sich der ganzheitlichen Förderung junger Menschen widmet und dabei kreative, pädagogische und sozialpädagogische Ansätze vereint.
-
-### Kreative Bildungsprogramme
-Entwicklung und Durchführung innovativer Bildungsprogramme, die:
-- Kreativität und künstlerische Ausdrucksformen fördern
-- Resilienz und Selbstbewusstsein stärken
-- Nachhaltiges Denken und Umweltbewusstsein vermitteln
-- Kulturelle Teilhabe ermöglichen
-
----
-
-## Qualifikationen und Expertise
+### Nominee JUMPP Inspire Award 2024
+Der Jumpp Inspire Award ist ein Wettbewerb für herausragende Gründungskonzepte in der Frühphase. 
 
 ### Professionelle Qualifikationen
 
@@ -88,13 +70,10 @@ Entwicklung und Durchführung innovativer Bildungsprogramme, die:
 - **We Love Learning – Certificate of Participation (August 2024)**  
   Teilnahme an Weiterbildungsprogramm im Bereich innovative Bildungsmethoden
 
-- **JUMPP – Jugend und mehr**  
-  Projektbeteiligung und Weiterentwicklung von Programmen für Jugendliche
-
 ### Engagement
 
-- **Aktivistin für Bildung und soziale Gerechtigkeit**  
-  Engagement für gerechte Bildungszugänge und nachhaltige gesellschaftliche Entwicklung
+- **Aktivistin für Bildung, Gesundheit und soziale Gerechtigkeit**  
+  Engagement mit Sounds of Hope (seit 2018) für gerechte Bildungszugänge und nachhaltige gesellschaftliche Entwicklung in Afrika. 
 
 ---
 
