@@ -28,6 +28,11 @@ h1, h2, h3, h4, h5, h6, .post-title, .post-title a {
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 
+/* Only center post-title on about page (section pages) */
+article.post .post-title {
+  text-align: center !important;
+}
+
 .nav, .navbar, nav {
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
@@ -249,13 +254,121 @@ article.post {
   margin-top: 0 !important;
 }
 
+/* About page specific styles - apply to article.post .post-content but let front page sections override */
+article.post .post-content {
+  line-height: 1.8 !important;
+}
+
+/* Only apply max-width and centering when there are NO front page sections */
+article.post .post-content:not(:has(.intro-section)):not(:has(.services-section)) {
+  max-width: 900px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Front page sections must NOT be constrained - MUST override parent max-width */
+article.post .post-content .intro-section,
+article.post .post-content .services-section,
+article.post .post-content .contact-section,
+article.post .post-content .funding-section {
+  max-width: none !important;
+  width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  position: relative !important;
+}
+
+/* Ensure parent doesn't constrain front page sections */
+article.post .post-content:has(.intro-section),
+article.post .post-content:has(.services-section) {
+  max-width: none !important;
+  width: 100% !important;
+}
+
 /* Make the subtitle/credentials on about page larger */
-.post-content > h3:first-of-type {
+article.post .post-content > h3:first-of-type {
   font-size: 1.3em !important;
   font-weight: 500 !important;
-  margin-bottom: 1em !important;
-  margin-top: 0.5em !important;
+  margin-bottom: 1.5em !important;
+  margin-top: 0.8em !important;
   color: #cf3b73 !important;
+  padding-bottom: 0.5em !important;
+  border-bottom: 1px solid rgba(207, 59, 115, 0.3) !important;
+  text-align: center !important;
+}
+
+/* Improve about page typography and spacing */
+article.post .post-content p {
+  margin-bottom: 1.2em !important;
+  line-height: 1.8 !important;
+  color: #333 !important;
+}
+
+[data-theme="dark"] article.post .post-content p {
+  color: #e8e8e8 !important;
+}
+
+article.post .post-content h2 {
+  font-size: 2em !important;
+  margin-top: 2em !important;
+  margin-bottom: 1em !important;
+  padding-bottom: 0.5em !important;
+  border-bottom: 2px solid #cf3b73 !important;
+  color: #cf3b73 !important;
+  font-weight: 600 !important;
+}
+
+article.post .post-content h3 {
+  font-size: 1.5em !important;
+  margin-top: 1.5em !important;
+  margin-bottom: 0.8em !important;
+  color: #cf3b73 !important;
+  font-weight: 600 !important;
+}
+
+article.post .post-content h4 {
+  font-size: 1.3em !important;
+  margin-top: 1.2em !important;
+  margin-bottom: 0.6em !important;
+  color: #444 !important;
+  font-weight: 600 !important;
+}
+
+[data-theme="dark"] article.post .post-content h4 {
+  color: #d0d0d0 !important;
+}
+
+article.post .post-content ul,
+article.post .post-content ol {
+  margin-left: 1.5em !important;
+  margin-bottom: 1.2em !important;
+  padding-left: 1em !important;
+}
+
+article.post .post-content li {
+  margin-bottom: 0.8em !important;
+  line-height: 1.8 !important;
+}
+
+article.post .post-content li strong {
+  color: #cf3b73 !important;
+  font-weight: 600 !important;
+}
+
+article.post .post-content hr {
+  border: none !important;
+  border-top: 2px solid #cf3b73 !important;
+  margin: 2.5em 0 !important;
+  opacity: 0.3 !important;
+}
+
+article.post .post-content strong {
+  font-weight: 600 !important;
+  color: #333 !important;
+}
+
+[data-theme="dark"] article.post .post-content strong {
+  color: #e8e8e8 !important;
 }
 
 /* Style links on post pages (like about page) */
@@ -377,7 +490,7 @@ article.post {
   border: 2px solid #f5f5f0;
   border-top: 4px solid #cf3b73;
   border-radius: 12px;
-  padding: 2em;
+  padding: 1.5em;
   transition: all 0.3s ease;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
   display: flex;
@@ -405,7 +518,7 @@ article.post {
 
 .service-card h3 {
   font-size: 1.4em;
-  margin: 0 0 0.8em 0;
+  margin: 0 0 0.5em 0;
   font-weight: 600;
   color: #cf3b73;
   text-decoration: none;
@@ -424,7 +537,7 @@ article.post {
   display: block;
   font-style: italic;
   color: #000000;
-  margin-bottom: 1.2em;
+  margin-bottom: 0.8em;
   font-size: 0.95em;
   line-height: 1.5;
   flex-shrink: 0;
@@ -432,8 +545,7 @@ article.post {
 
 .service-card p {
   margin: 0;
-  margin-top: auto;
-  line-height: 1.7;
+  line-height: 1.6;
   color: #000000;
   font-size: 0.98em;
 }
