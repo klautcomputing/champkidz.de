@@ -195,11 +195,6 @@ code, pre, .highlight {
 
 /* Logo will be switched via JavaScript based on theme */
 
-/* Override for light mode to ensure correct logo */
-.logo-img {
-  content: url('/images/logo.png');
-}
-
 /* Header tagline */
 .logo-tagline {
   font-size: 0.39em; /* 60% of 0.65em */
