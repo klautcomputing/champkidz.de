@@ -25,11 +25,15 @@ In Übereinstimmung mit der Kultur, den Traditionen und Werten erkennen die Ält
 #### Bürgerpreis Frankfurt 2015 mit "Kultur für ALLE Kids"
 Auszeichnung für besonderes bürgerschaftliches Engagement und langjährige ehrenamtliche Arbeit im Bildungsbereich. Der Bürgerpreis ist eine wichtige Anerkennung für Personen, die sich durch herausragendes ehrenamtliches Engagement in ihrer Gemeinde auszeichnen und einen nachhaltigen Beitrag zur gesellschaftlichen Entwicklung leisten.
 
-### Go Volunteer Siegel für ausgezeichnetes Engagement 2023 
-Das Siegel für ausgezeichnetes Engegement würdigt soziale Projekte, die vorbildliche Arbeit mit freiwilligen Helfer:innen leisten. 
+#### Go Volunteer Siegel für ausgezeichnetes Engagement 2023 
+Das Siegel für ausgezeichnetes Engagement würdigt soziale Projekte, die vorbildliche Arbeit mit freiwilligen Helfer:innen leisten. 
 
-### Nominee JUMPP Inspire Award 2024
+#### Nominee JUMPP Inspire Award 2024
 Der Jumpp Inspire Award ist ein Wettbewerb für herausragende Gründungskonzepte in der Frühphase. 
+
+---
+
+## Qualifikationen und Expertise
 
 ### Professionelle Qualifikationen
 
@@ -70,10 +74,13 @@ Der Jumpp Inspire Award ist ein Wettbewerb für herausragende Gründungskonzepte
 - **We Love Learning – Certificate of Participation (August 2024)**  
   Teilnahme an Weiterbildungsprogramm im Bereich innovative Bildungsmethoden
 
-### Engagement
+---
 
-- **Aktivistin für Bildung, Gesundheit und soziale Gerechtigkeit**  
-  Engagement mit Sounds of Hope (seit 2018) für gerechte Bildungszugänge und nachhaltige gesellschaftliche Entwicklung in Afrika. 
+## Engagement
+
+### Aktivistin für Bildung, Gesundheit und soziale Gerechtigkeit
+
+Engagement mit Sounds of Hope (seit 2018) für gerechte Bildungszugänge und nachhaltige gesellschaftliche Entwicklung in Afrika. 
 
 ---
 
