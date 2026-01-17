@@ -83,7 +83,7 @@ Ganzheitliches Lernkonzept, das kognitives, emotionales und praktisches Lernen m
 *Zertifizierter Bildungsträger, Kindercoach, Aktivistin, Erzieherin, Preisträgerin*
 
 📞 [+49 151-72227377](tel:+4915172227377)  
-✉️ [huegel@champkidz.de](mailto:huegel@champkidz.de)
+✉️ [champkidzcoach@gmail.com](mailto:champkidzcoach@gmail.com)
 
 </a>
 </div>

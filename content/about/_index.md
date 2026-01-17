@@ -80,7 +80,9 @@ Der Jumpp Inspire Award ist ein Wettbewerb für herausragende Gründungskonzepte
 
 ### Aktivistin für Bildung, Gesundheit und soziale Gerechtigkeit
 
-Engagement mit Sounds of Hope (seit 2018) für gerechte Bildungszugänge und nachhaltige gesellschaftliche Entwicklung in Afrika. 
+Engagement mit [Sounds of Hope international](https://soundsofhope.international/) (seit 2018) für gerechte Bildungszugänge und nachhaltige gesellschaftliche Entwicklung in Afrika.
+
+ChampKidz unterstützt mit 10% der Einnahmen die Projekte von [Sounds of Hope international](https://soundsofhope.international/). 
 
 ---
 
@@ -99,4 +101,4 @@ Meine pädagogische Arbeit verbindet:
 ## Kontakt
 
 📞 [+49 151-72227377](tel:+4915172227377)  
-✉️ [huegel@champkidz.de](mailto:huegel@champkidz.de)
+✉️ [champkidzcoach@gmail.com](mailto:champkidzcoach@gmail.com)
