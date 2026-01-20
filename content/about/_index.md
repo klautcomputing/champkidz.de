@@ -4,6 +4,10 @@ title = "Xenia Hügel"
 
 ### Zertifizierter Bildungsträger, Kindercoach, Aktivistin, Erzieherin, Preisträgerin
 
+<p style="text-align: center;">
+  <img src="/images/xenia.jpg" alt="Xenia Hügel – ChampKidz" style="max-width: 260px; border-radius: 9999px;" />
+</p>
+
 Meine Arbeit ist geprägt von dem Ziel, Kinder und Jugendliche in ihrer persönlichen Entwicklung zu stärken und ihnen Werkzeuge an die Hand zu geben, die ihnen helfen, selbstbewusst, kreativ und resilient durchs Leben zu gehen.
 
 Durch die Verbindung von kultureller Bildung, kreativen Methoden und nachhaltigem Denken schaffe ich Lernräume, in denen Kinder ihre Potenziale entdecken und entfalten können.
