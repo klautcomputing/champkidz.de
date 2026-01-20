@@ -23,7 +23,7 @@ Unsere Weiterbildungsprogramme sind speziell darauf ausgerichtet, Kinder in ihre
 ### Resilienz
 *stark werden*
 
-Programm zur Stärkung der persönlichen Widerstandsfähigkeit und Entwicklung innerer Stärke.
+Programm zur Stärkung der persönlichen Widerstandsfähigkeit und Entwicklung innerer Stärke
 
 </a>
 
@@ -32,7 +32,7 @@ Programm zur Stärkung der persönlichen Widerstandsfähigkeit und Entwicklung i
 ### Nachhaltigkeit
 *die Umwelt achten*
 
-Förderung eines nachhaltigen Umweltbewusstseins und sozialer Verantwortung durch spielerisches Lernen.
+Förderung eines nachhaltigen Umweltbewusstseins und sozialer Verantwortung durch spielerisches Lernen
 
 </a>
 
@@ -41,7 +41,7 @@ Förderung eines nachhaltigen Umweltbewusstseins und sozialer Verantwortung durc
 ### Biografiearbeit & Rap-Textanalyse
 *sich ausdrücken und Geschichten teilen*
 
-Kreative Methoden zur Selbstreflexion und Kommunikation durch Biografiearbeit und Analyse von Rap-Texten.
+Kreative Methoden zur Selbstreflexion und Kommunikation durch Biografiearbeit und Analyse von Rap-Texten
 
 </a>
 
@@ -50,7 +50,7 @@ Kreative Methoden zur Selbstreflexion und Kommunikation durch Biografiearbeit un
 ### Kunst, Kreativität & Erleben
 *eigene Ideen umsetzen und Spaß haben*
 
-Praktische Workshops zur Förderung künstlerischer und kreativer Fähigkeiten mit viel Raum für eigene Ideen.
+Praktische Workshops zur Förderung künstlerischer und kreativer Fähigkeiten mit viel Raum für eigene Ideen
 
 </a>
 
@@ -59,7 +59,7 @@ Praktische Workshops zur Förderung künstlerischer und kreativer Fähigkeiten m
 ### Vorlesepatin & Sprachtraining Deutsch
 *Sprachentwicklung fördern*
 
-Gezielte Förderung der Sprachentwicklung durch Vorlesen und spezielles Sprachtraining für Deutsch.
+Gezielte Förderung der Sprachentwicklung durch Vorlesen und spezielles Sprachtraining für Deutsch
 
 </a>
 
@@ -68,7 +68,7 @@ Gezielte Förderung der Sprachentwicklung durch Vorlesen und spezielles Sprachtr
 ### Bildung trifft Entwicklung
 *Lernen mit Kopf, Herz und Hand*
 
-Ganzheitliches Lernkonzept, das kognitives, emotionales und praktisches Lernen miteinander verbindet.
+Ganzheitliches Lernkonzept, das kognitives, emotionales und praktisches Lernen miteinander verbindet
 
 </a>
 

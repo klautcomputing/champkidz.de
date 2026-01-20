@@ -17,4 +17,4 @@ Ab 45 Min. buchbar.
 ---
 
 **Kostenübernahme**  
-Eine vollständige oder teilweise Kostenübernahme durch Stiftungen ist möglich. Förderung möglich.
+Eine vollständige oder teilweise Kostenübernahme durch Stiftungen ist möglich.
