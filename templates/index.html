@@ -122,6 +122,12 @@
             </main>
 
             {% block footer %}
+            <footer class="site-footer">
+              <p class="footer-legal">
+                {% set impressum = get_page(path="impressum.md") %}
+                <a href="{{ impressum.permalink }}">Impressum</a>
+              </p>
+            </footer>
             {% endblock footer %}
         </div>
 

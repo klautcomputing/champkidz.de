@@ -180,17 +180,17 @@ code, pre, .highlight {
 }
 
 .logo-img {
-  height: 168px; /* ~20% larger than 140px */
+  height: 140px;
   width: auto;
   display: block;
 }
 
 #header .logo-img {
-  height: 168px; /* match main logo size */
+  height: 140px;
 }
 
 .mobile-header-logo .logo-img {
-  height: 120px; /* ~20% larger than 100px on mobile */
+  height: 100px;
 }
 
 /* Logo will be switched via JavaScript based on theme */
@@ -436,15 +436,13 @@ article.post .post-content strong {
 }
 
 .intro-section h1 {
-  /* Responsive, single-line title that scales with viewport */
-  font-size: clamp(2.2rem, 6vw, 3.5rem);
+  font-size: 3.5em;
   margin-bottom: 0.5em;
   margin-top: 0;
   font-weight: 700;
   color: #cf3b73;
   letter-spacing: 0.05em;
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-  white-space: nowrap;
 }
 
 .intro-section h2 {
@@ -890,6 +888,24 @@ article.post .post-content strong {
 [data-theme="dark"] .about-link-mobile:hover {
   background-color: rgba(230, 107, 156, 0.15);
   color: #f09dbd;
+}
+
+/* Footer / Impressum link */
+.site-footer {
+  margin-top: 3rem;
+  padding: 1.5rem 0 2rem;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #666;
+}
+
+.site-footer .footer-legal a {
+  color: #777 !important;
+  text-decoration: underline;
+}
+
+.site-footer .footer-legal a:hover {
+  color: #cf3b73 !important;
 }
 
 /* Also support system preference as fallback */
