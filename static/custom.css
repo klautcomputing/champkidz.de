@@ -436,13 +436,15 @@ article.post .post-content strong {
 }
 
 .intro-section h1 {
-  font-size: 3.5em;
+  /* Responsive, single-line title that scales with viewport */
+  font-size: clamp(2.2rem, 6vw, 3.5rem);
   margin-bottom: 0.5em;
   margin-top: 0;
   font-weight: 700;
   color: #cf3b73;
   letter-spacing: 0.05em;
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  white-space: nowrap;
 }
 
 .intro-section h2 {
@@ -708,6 +710,10 @@ article.post .post-content strong {
   .container {
     padding-left: 0.75em !important;
     padding-right: 0.75em !important;
+  }
+  
+  .intro-section h2 {
+    font-size: 1.6em;
   }
   
   main {
