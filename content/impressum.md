@@ -16,7 +16,7 @@ Deutschland
 ## Kontakt
 
 **Telefon:** [+49 151-72227377](tel:+4915172227377)  
-**E-Mail:** [champkidzcoach@gmail.com](mailto:champkidzcoach@gmail.com)
+**E-Mail:** <a href="mailto:%63%68%61%6D%70%6B%69%64%7A%63%6F%61%63%68%40%67%6D%61%69%6C%2E%63%6F%6D" target="_blank" rel="noopener noreferrer">E-Mail</a>
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
