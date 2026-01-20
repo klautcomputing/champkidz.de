@@ -180,17 +180,17 @@ code, pre, .highlight {
 }
 
 .logo-img {
-  height: 140px;
+  height: 168px; /* ~20% larger than 140px */
   width: auto;
   display: block;
 }
 
 #header .logo-img {
-  height: 140px;
+  height: 168px; /* match main logo size */
 }
 
 .mobile-header-logo .logo-img {
-  height: 100px;
+  height: 120px; /* ~20% larger than 100px on mobile */
 }
 
 /* Logo will be switched via JavaScript based on theme */
