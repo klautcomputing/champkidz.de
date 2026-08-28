@@ -2,6 +2,7 @@
 title = "Biografiearbeit & Rap-Textanalyse"
 description = "sich ausdrücken und Geschichten teilen"
 date = 2024-01-01
+weight = 3
 +++
 
 ## ChampKidz - Biografiearbeit und Rap-Textanalyse – sich ausdrücken und Geschichten teilen

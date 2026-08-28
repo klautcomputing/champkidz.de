@@ -4,9 +4,10 @@ title = "Xenia Hügel"
 
 ### Zertifizierter Bildungsträger, Kindercoach, Aktivistin, Erzieherin, Preisträgerin
 
-<p style="text-align: center;">
-  <img src="/images/xenia.jpg" alt="Xenia Hügel – ChampKidz" style="max-width: 260px; border-radius: 9999px;" />
-</p>
+<figure class="award-photo">
+  <img src="/images/auszeichnung-bne-2026.jpg" alt="Xenia Hügel nimmt die Nationale Auszeichnung – Bildung für nachhaltige Entwicklung für ChampKidz entgegen" />
+  <figcaption>Verleihung der Nationalen Auszeichnung – Bildung für nachhaltige Entwicklung, 20. Juli 2026. Foto: Martin Stollberg</figcaption>
+</figure>
 
 Meine Arbeit ist geprägt von dem Ziel, Kinder und Jugendliche in ihrer persönlichen Entwicklung zu stärken und ihnen Werkzeuge an die Hand zu geben, die ihnen helfen, selbstbewusst, kreativ und resilient durchs Leben zu gehen.
 
@@ -16,24 +17,11 @@ Durch die Verbindung von kultureller Bildung, kreativen Methoden und nachhaltige
 
 ## Auszeichnungen und Anerkennungen
 
-### Internationale Anerkennungen
+ChampKidz wurde 2026 für vorbildliches Engagement zur Verankerung von Bildung für nachhaltige Entwicklung in Deutschland von der Deutschen UNESCO-Kommission und dem Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend ausgezeichnet ([www.bne-portal.de](https://www.bne-portal.de)).
 
-#### African Humanitarian Award 2025
-Gewinnerin des African Humanitarian Award für herausragendes humanitäres Engagement und wertvolle Bildungsarbeit. Diese internationale Auszeichnung würdigt Personen, die sich durch besonderes humanitäres Engagement und transformative Bildungsarbeit auszeichnen.
+Dazu kommen Anerkennungen aus den Jahren 2015 bis 2025 – vom Bürgerpreis Frankfurt über die Ehrenbürgerschaft in Jattaba bis zum African Humanitarian Award.
 
-#### Honorary Citizen of Jattaba 2020 
-In Übereinstimmung mit der Kultur, den Traditionen und Werten erkennen die Ältesten und Autoritäten von Jattaba, Xenia Hügel als Ehrenbürgerin an. 
-
-### Nationale Auszeichnungen
-
-#### Bürgerpreis Frankfurt 2015 mit "Kultur für ALLE Kids"
-Auszeichnung für besonderes bürgerschaftliches Engagement und langjährige ehrenamtliche Arbeit im Bildungsbereich. Der Bürgerpreis ist eine wichtige Anerkennung für Personen, die sich durch herausragendes ehrenamtliches Engagement in ihrer Gemeinde auszeichnen und einen nachhaltigen Beitrag zur gesellschaftlichen Entwicklung leisten.
-
-#### Go Volunteer Siegel für ausgezeichnetes Engagement 2023 
-Das Siegel für ausgezeichnetes Engagement würdigt soziale Projekte, die vorbildliche Arbeit mit freiwilligen Helfer:innen leisten. 
-
-#### Nominee JUMPP Inspire Award 2024
-Der Jumpp Inspire Award ist ein Wettbewerb für herausragende Gründungskonzepte in der Frühphase. 
+[Alle Auszeichnungen und Anerkennungen im Überblick](@/auszeichnungen.md)
 
 ---
 
@@ -56,6 +44,10 @@ Der Jumpp Inspire Award ist ein Wettbewerb für herausragende Gründungskonzepte
 - **BNE-Bildungsträger (Bildung für nachhaltige Entwicklung)**  
   Zertifizierung für Programme zur Bildung für nachhaltige Entwicklung (Zertifikat ab 2025)
 
+<p class="credential-logo">
+  <img src="/images/bne-bildungstraeger-hessen.png" alt="Bildung für nachhaltige Entwicklung in Hessen – Zertifizierter Bildungsträger" />
+</p>
+
 ### Zusätzliche Qualifikationen und Bescheinigungen
 
 - **Zertifikat Profamilia**  
@@ -77,6 +69,10 @@ Der Jumpp Inspire Award ist ein Wettbewerb für herausragende Gründungskonzepte
 
 - **We Love Learning – Certificate of Participation (August 2024)**  
   Teilnahme an Weiterbildungsprogramm im Bereich innovative Bildungsmethoden
+
+### Persönliche Weiterbildung
+
+- **Grundkurs medial-sensitive Beraterin (nach Pascal Voggenhuber)**
 
 ---
 

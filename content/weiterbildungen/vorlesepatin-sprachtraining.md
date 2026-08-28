@@ -2,6 +2,7 @@
 title = "Vorlesepatin & Sprachtraining Deutsch"
 description = "Sprachentwicklung fördern"
 date = 2024-01-01
+weight = 5
 +++
 
 ## ChampKidz – Vorlesepatin & Sprachtraining Deutsch – Sprachentwicklung fördern

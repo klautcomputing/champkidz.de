@@ -17,4 +17,5 @@ debug/
 extracted_*
 logo_*
 public/
+sources/
 target/

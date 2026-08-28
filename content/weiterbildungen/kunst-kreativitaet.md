@@ -2,6 +2,7 @@
 title = "Kunst, Kreativität & Erleben"
 description = "eigene Ideen umsetzen und Spaß haben"
 date = 2024-01-01
+weight = 4
 +++
 
 ## ChampKidz – Kunst, Kreativität & Erleben – eigene Ideen umsetzen und Spaß haben

@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://klautcomputing.github.io/champkidz.de/"
+base_url = "https://champkidz.de"
 
 # The theme to use
 theme = "even"
@@ -30,4 +30,9 @@ taxonomies = []
 author = "Xenia Hügel"
 even_title = "ChampKidz"
 
-even_menu = []
+# Paths are resolved with get_url(), so they are relative to base_url.
+even_menu = [
+    {url = "weiterbildungen/", name = "Weiterbildungen"},
+    {url = "auszeichnungen/", name = "Auszeichnungen"},
+    {url = "about/", name = "Über mich"},
+]

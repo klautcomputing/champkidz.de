@@ -2,6 +2,7 @@
 title = "Resilienz"
 description = "stark werden"
 date = 2024-01-01
+weight = 1
 +++
 
 ## ChampKidz – Resilienzprogramm in ihrer Einrichtung

@@ -2,6 +2,7 @@
 title = "Bildung trifft Entwicklung"
 description = "Lernen mit Kopf, Herz und Hand"
 date = 2024-01-01
+weight = 6
 +++
 
 ## ChampKidz – Bildung trifft Entwicklung – Lernen mit Kopf, Herz und Hand

@@ -1,26 +1,16 @@
 +++
-title = "Home"
+title = "Weiterbildungen"
+description = "Alle ChampKidz Weiterbildungen im Überblick"
+sort_by = "weight"
 +++
 
 <div class="intro-section">
 
-# CHAMPKIDZ
-
-## Weiterbildungen für Kinder in ihrer Einrichtung
+## Alle Programme im Überblick
 
 **(Vorschule - 10. Klasse / Kleingruppen)**
 
-Unsere Weiterbildungsprogramme sind speziell darauf ausgerichtet, Kinder in ihrer Entwicklung zu stärken und ihre Kreativität zu fördern.
-
-</div>
-
-<div class="news-section">
-
-**Ausgezeichnet: Nationale Auszeichnung – Bildung für nachhaltige Entwicklung 2026/2027**
-
-ChampKidz wurde 2026 für vorbildliches Engagement zur Verankerung von Bildung für nachhaltige Entwicklung in Deutschland von der Deutschen UNESCO-Kommission und dem Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend ausgezeichnet ([www.bne-portal.de](https://www.bne-portal.de)).
-
-[Mehr über die Auszeichnung](auszeichnungen/)
+Alle Weiterbildungen finden direkt in Ihrer Einrichtung statt – in der Kita, in der Schule, im Klassenverband oder in Kleingruppen. Die Programme lassen sich einzeln buchen oder miteinander kombinieren.
 
 </div>
 
@@ -28,7 +18,7 @@ ChampKidz wurde 2026 für vorbildliches Engagement zur Verankerung von Bildung f
 
 <div class="services-grid">
 
-<a href="weiterbildungen/resilienz" class="service-card">
+<a href="resilienz/" class="service-card">
 
 ### Resilienz
 *stark werden*
@@ -37,7 +27,7 @@ Programm zur Stärkung der persönlichen Widerstandsfähigkeit und Entwicklung i
 
 </a>
 
-<a href="weiterbildungen/nachhaltigkeit" class="service-card">
+<a href="nachhaltigkeit/" class="service-card">
 
 ### Nachhaltigkeit
 *die Umwelt achten*
@@ -46,7 +36,7 @@ Förderung eines nachhaltigen Umweltbewusstseins und sozialer Verantwortung durc
 
 </a>
 
-<a href="weiterbildungen/biografiearbeit-rap" class="service-card">
+<a href="biografiearbeit-rap/" class="service-card">
 
 ### Biografiearbeit & Rap-Textanalyse
 *sich ausdrücken und Geschichten teilen*
@@ -55,7 +45,7 @@ Kreative Methoden zur Selbstreflexion und Kommunikation durch Biografiearbeit un
 
 </a>
 
-<a href="weiterbildungen/kunst-kreativitaet" class="service-card">
+<a href="kunst-kreativitaet/" class="service-card">
 
 ### Kunst, Kreativität & Erleben
 *eigene Ideen umsetzen und Spaß haben*
@@ -64,7 +54,7 @@ Praktische Workshops zur Förderung künstlerischer und kreativer Fähigkeiten m
 
 </a>
 
-<a href="weiterbildungen/vorlesepatin-sprachtraining" class="service-card">
+<a href="vorlesepatin-sprachtraining/" class="service-card">
 
 ### Vorlesepatin & Sprachtraining Deutsch
 *Sprachentwicklung fördern*
@@ -73,7 +63,7 @@ Gezielte Förderung der Sprachentwicklung durch Vorlesen und spezielles Sprachtr
 
 </a>
 
-<a href="weiterbildungen/bildung-trifft-entwicklung" class="service-card">
+<a href="bildung-trifft-entwicklung/" class="service-card">
 
 ### Bildung trifft Entwicklung
 *Lernen mit Kopf, Herz und Hand*
@@ -82,7 +72,7 @@ Ganzheitliches Lernkonzept, das kognitives, emotionales und praktisches Lernen m
 
 </a>
 
-<a href="weiterbildungen/schule-der-zukunft" class="service-card">
+<a href="schule-der-zukunft/" class="service-card">
 
 ### Schule (Kita) der Zukunft
 *sich selbst verstehen*
@@ -95,8 +85,16 @@ Kinderbewusstseinstraining in 10 Modulen – Selbstwahrnehmung, Gefühle und Leb
 
 </div>
 
+<div class="funding-section">
+
+**Kostenübernahme**
+
+Eine vollständige oder teilweise Kostenübernahme durch Stiftungen ist möglich. Sprechen Sie mich gerne an – ich berate Sie zu den Fördermöglichkeiten für Ihre Einrichtung.
+
+</div>
+
 <div class="contact-section">
-<a href="about">
+<a href="../about/">
 
 **Xenia Hügel**  
 *Zertifizierter Bildungsträger, Kindercoach, Aktivistin, Erzieherin, Preisträgerin*

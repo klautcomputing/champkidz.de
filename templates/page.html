@@ -12,6 +12,11 @@
     </div>
 
     {% block page_before_footer %}
+        {% if page.components and page.components[0] == "weiterbildungen" %}
+            <p class="back-to-overview">
+                <a href="{{ get_url(path="@/weiterbildungen/_index.md") }}">‹ Alle Weiterbildungen</a>
+            </p>
+        {% endif %}
     {% endblock page_before_footer %}
 
     <div class="post-footer">

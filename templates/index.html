@@ -1,7 +1,7 @@
 {% import "post_macros.html" as post_macros %}
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
     <head>
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -28,7 +28,6 @@
       {% endif %}
 
       {% block js %}
-          <script src="https://cdnjs.cloudflare.com/ajax/libs/slideout/1.0.1/slideout.min.js"></script>
           {% if config.extra.katex_enable %}
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
 
@@ -61,11 +60,11 @@
                       <div class="logo-tagline">stark & kreativ</div>
                     </a>
                 </div>
-                <nav class="menu">
+                <nav class="menu" aria-label="Hauptnavigation">
                     <ul>
                         {% for item in config.extra.even_menu %}
                             <li>
-                                <a href="{{ item.url | replace(from="$BASE_URL", to=config.base_url) }}">
+                                <a href="{{ get_url(path=item.url) }}">
                                     {{ item.name }}
                                 </a>
                             </li>
@@ -73,11 +72,6 @@
                     </ul>
                 </nav>
                 <div class="header-right">
-                    {% if section and (section.path == "about" or section.permalink is containing("/about")) %}
-                    <a href="{{ config.base_url }}" class="about-link">Meine Kurse</a>
-                    {% else %}
-                    <a href="{{ config.base_url }}/about" class="about-link">Über mich</a>
-                    {% endif %}
                     <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">
                         <span class="theme-toggle-icon">🌙</span>
                     </button>
@@ -132,7 +126,6 @@
         </div>
 
       {% block js_body %}
-          <script type="text/javascript" src="{{ get_url(path="even.js", trailing_slash=false) }}" ></script>
           <script>
             // Theme toggle functionality
             (function() {
