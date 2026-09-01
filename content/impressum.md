@@ -2,15 +2,15 @@
 title = "Impressum"
 +++
 
-## Angaben gemäß § 5 TMG / DDG
+## Angaben gemäß § 5 DDG
 
 **Diensteanbieterin:**  
 Xenia Hügel  
 Einzelunternehmerin
 
 **Geschäftsanschrift:**  
-Waldstraße  
-63071 Offenbach  
+Wilhelm-Schramm-Straße 6  
+63071 Offenbach am Main  
 Deutschland
 
 ## Kontakt
@@ -18,11 +18,11 @@ Deutschland
 **Telefon:** [+49 151-72227377](tel:+4915172227377)  
 **E-Mail:** <a href="mailto:%63%68%61%6D%70%6B%69%64%7A%63%6F%61%63%68%40%67%6D%61%69%6C%2E%63%6F%6D" target="_blank" rel="noopener noreferrer">E-Mail</a>
 
-## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
+## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 
 Xenia Hügel  
-Waldstraße  
-63071 Offenbach  
+Wilhelm-Schramm-Straße 6  
+63071 Offenbach am Main  
 Deutschland
 
 ## Umsatzsteuer
@@ -31,8 +31,8 @@ Gemäß § 19 UStG wird keine Umsatzsteuer ausgewiesen (Kleinunternehmerregelung
 
 ## Haftung für Inhalte
 
-Als Diensteanbieterin bin ich gemäß § 7 Abs. 1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.  
-Nach §§ 8 bis 10 TMG bin ich als Diensteanbieterin jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
+Als Diensteanbieterin bin ich gemäß § 7 Abs. 1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.  
+Nach §§ 8 bis 10 DDG bin ich als Diensteanbieterin jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
 
 Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werde ich diese Inhalte umgehend entfernen.
 

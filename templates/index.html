@@ -119,7 +119,10 @@
             <footer class="site-footer">
               <p class="footer-legal">
                 {% set impressum = get_page(path="impressum.md") %}
+                {% set datenschutz = get_page(path="datenschutz.md") %}
                 <a href="{{ impressum.permalink }}">Impressum</a>
+                <span class="footer-sep">·</span>
+                <a href="{{ datenschutz.permalink }}">Datenschutz</a>
               </p>
             </footer>
             {% endblock footer %}

@@ -52,6 +52,9 @@ In Übereinstimmung mit der Kultur, den Traditionen und Werten erkennen die Ält
 
 ## Weitere nationale Auszeichnungen
 
+### Business Innovator 2026
+Auszeichnung des Deutschen Innovationsinstituts für Nachhaltigkeit und Digitalisierung in Kooperation mit dem DUP Magazin. Gewürdigt werden Unternehmen und Initiativen, die durch Innovationskraft, digitale Kompetenz und zukunftsweisende Strategien überzeugen.
+
 ### Bürgerpreis Frankfurt 2015 mit „Kultur für ALLE Kids“
 Auszeichnung für besonderes bürgerschaftliches Engagement und langjährige ehrenamtliche Arbeit im Bildungsbereich. Der Bürgerpreis ist eine wichtige Anerkennung für Personen, die sich durch herausragendes ehrenamtliches Engagement in ihrer Gemeinde auszeichnen und einen nachhaltigen Beitrag zur gesellschaftlichen Entwicklung leisten.
 

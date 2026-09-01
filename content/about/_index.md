@@ -19,7 +19,7 @@ Durch die Verbindung von kultureller Bildung, kreativen Methoden und nachhaltige
 
 ChampKidz wurde 2026 für vorbildliches Engagement zur Verankerung von Bildung für nachhaltige Entwicklung in Deutschland von der Deutschen UNESCO-Kommission und dem Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend ausgezeichnet ([www.bne-portal.de](https://www.bne-portal.de)).
 
-Dazu kommen Anerkennungen aus den Jahren 2015 bis 2025 – vom Bürgerpreis Frankfurt über die Ehrenbürgerschaft in Jattaba bis zum African Humanitarian Award.
+Dazu kommen weitere Auszeichnungen und Anerkennungen – vom Bürgerpreis Frankfurt über die Ehrenbürgerschaft in Jattaba und den African Humanitarian Award bis zur Auszeichnung „Business Innovator“.
 
 [Alle Auszeichnungen und Anerkennungen im Überblick](@/auszeichnungen.md)
 

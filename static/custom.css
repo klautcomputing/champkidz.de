@@ -1148,6 +1148,11 @@ article.post .post-content .funding-section strong {
   color: #666;
 }
 
+.site-footer .footer-sep {
+  margin: 0 0.5em;
+  color: #999;
+}
+
 .site-footer .footer-legal a {
   color: #777 !important;
   text-decoration: underline;
